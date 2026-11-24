@@ -6,7 +6,7 @@
 #include <cstdint>
 #include <stdexcept>
 
-namespace Types {
+namespace orderbook {
 
 enum class Side {
   buy,
@@ -46,6 +46,10 @@ public:
     m_value -= other.value();
     return *this;
   }
+  Quantity &operator+=(const Quantity &other) {
+    m_value += other.value();
+    return *this;
+  }
 };
 
 class Order {
@@ -82,6 +86,6 @@ struct Trade {
   Quantity quantity;
 };
 
-} // namespace Types
+} // namespace orderbook
 
 #endif
