@@ -73,7 +73,7 @@ int main() {
     ops.push_back(Op{type, id, side, price, quantity, targetId});
   }
 
-  const auto testBook = [](orderbook::Book &book, Op &o, Stats &s) {
+  const auto testBook = [](orderbook::Book &book, const Op &o, Stats &s) {
     switch (o.type) {
     case limit:
       ++s.limits;
