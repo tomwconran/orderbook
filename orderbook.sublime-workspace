@@ -1,0 +1,789 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"junction",
+				"JunctionInformation"
+			],
+			[
+				"curre",
+				"currentRun"
+			],
+			[
+				"mvo",
+				"movedToNewSquare"
+			],
+			[
+				"junc",
+				"JunctionInformation"
+			],
+			[
+				"heading",
+				"headingTurns"
+			],
+			[
+				"dista",
+				"distanceTowards"
+			],
+			[
+				"ax",
+				"axes"
+			],
+			[
+				"fall",
+				"FALLBACK_JUNCTION_INFO"
+			],
+			[
+				"junci",
+				"JunctionInformation"
+			],
+			[
+				"awa",
+				"AWAY_CLOSER"
+			],
+			[
+				"towar",
+				"TOWARDS_FURTHER"
+			],
+			[
+				"dire",
+				"directionPriorities"
+			],
+			[
+				"headi",
+				"headingPriorities"
+			],
+			[
+				"pass",
+				"passageCount"
+			],
+			[
+				"juncion",
+				"junctionControl"
+			],
+			[
+				"junctionIn",
+				"junctionIndex"
+			],
+			[
+				"poi",
+				"position"
+			],
+			[
+				"prin",
+				"printJunction"
+			],
+			[
+				"direc",
+				"DIRECTION_NAMES"
+			],
+			[
+				"rob",
+				"robotData"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"cas",
+				"class"
+			],
+			[
+				"adjac",
+				"adjacentInfo"
+			],
+			[
+				"pas",
+				"passageExits"
+			],
+			[
+				"ju",
+				"junctionController"
+			],
+			[
+				"adj",
+				"adjacentInfo"
+			],
+			[
+				"bee",
+				"beenBeforeExits"
+			],
+			[
+				"beenb",
+				"beenBeforeExits"
+			],
+			[
+				"has",
+				"HashMap"
+			],
+			[
+				"s",
+				"squareTypes"
+			],
+			[
+				"choos",
+				"chooseFreeDirection"
+			],
+			[
+				"store",
+				"storeJunctionInfo"
+			],
+			[
+				"jucntio",
+				"junctionInfo"
+			],
+			[
+				"tak",
+				"takeJunctionInfo"
+			],
+			[
+				"jucn",
+				"junctionInfo"
+			],
+			[
+				"squar",
+				"movedToNewSquare"
+			],
+			[
+				"jucnt",
+				"JunctionInformation"
+			],
+			[
+				"been",
+				"BEENBEFORE"
+			],
+			[
+				"adcj",
+				"AdjacentInformation"
+			],
+			[
+				"expl",
+				"explorationController"
+			],
+			[
+				"rou",
+				"routeIndex"
+			],
+			[
+				"robo",
+				"robotData"
+			],
+			[
+				"robot",
+				"robotData"
+			],
+			[
+				"RO",
+				"RobotData"
+			],
+			[
+				"wall",
+				"Walls"
+			],
+			[
+				"getd",
+				"getDirectionPriorities"
+			],
+			[
+				"adjca",
+				"adjacentInfo"
+			],
+			[
+				"headin",
+				"HEADING_COUNT"
+			],
+			[
+				"quee",
+				"queens"
+			],
+			[
+				"queen",
+				"QueensSolver"
+			],
+			[
+				"que",
+				"queenRows"
+			],
+			[
+				"q",
+				"queenColours"
+			],
+			[
+				"quen",
+				"queenColumns"
+			],
+			[
+				"Headi",
+				"HEADINGS"
+			],
+			[
+				"HEad",
+				"HEADINGS"
+			],
+			[
+				"Headin",
+				"HEADINGS"
+			],
+			[
+				"Heading",
+				"HEADINGS"
+			],
+			[
+				"Dire",
+				"DIRECTIONS"
+			],
+			[
+				"rando",
+				"randNo"
+			],
+			[
+				"rand",
+				"randNo"
+			],
+			[
+				"poll",
+				"pollLast"
+			],
+			[
+				"create",
+				"createRoute"
+			],
+			[
+				"perfec",
+				"perfectRun"
+			],
+			[
+				"perfe",
+				"perfectRun"
+			],
+			[
+				"run",
+				"runJunctions"
+			],
+			[
+				"explor",
+				"explorationJunctions"
+			],
+			[
+				"crea",
+				"createRoute"
+			],
+			[
+				"get",
+				"getLocation"
+			],
+			[
+				"qu",
+				"quantityOfBeenBefore"
+			],
+			[
+				"im",
+				"import"
+			],
+			[
+				"cure",
+				"currentMove"
+			],
+			[
+				"dif",
+				"difY"
+			],
+			[
+				"a",
+				"abs"
+			],
+			[
+				"gethead",
+				"getHeadingPriorities"
+			],
+			[
+				"quan",
+				"quantityOfBeenBefore"
+			],
+			[
+				"runin",
+				"runJunctions"
+			],
+			[
+				"Rob",
+				"RobotData4"
+			],
+			[
+				"stor",
+				"storeJunctionHeading"
+			],
+			[
+				"Robo",
+				"RobotInformation"
+			],
+			[
+				"head",
+				"headingCount"
+			],
+			[
+				"sy",
+				"System"
+			],
+			[
+				"prio",
+				"priorities"
+			],
+			[
+				"stro",
+				"storeJunction"
+			],
+			[
+				"sore",
+				"storedJunctions"
+			],
+			[
+				"quant",
+				"quantityOfPossibleDirections"
+			],
+			[
+				"headingC",
+				"headingController"
+			],
+			[
+				"is",
+				"isEast"
+			],
+			[
+				"istarg",
+				"isTargetEast"
+			],
+			[
+				"ista",
+				"isTargetNorth"
+			],
+			[
+				"sw",
+				"switch"
+			],
+			[
+				"dir",
+				"dirToStringDict"
+			],
+			[
+				"possi",
+				"possibleDirections"
+			],
+			[
+				"Syste",
+				"System.out.println()"
+			],
+			[
+				"par",
+				"parseLong(String s) : long"
+			],
+			[
+				"priu",
+				"println(double x) : void"
+			],
+			[
+				"sys",
+				"System"
+			],
+			[
+				"println",
+				"System.out.println()"
+			],
+			[
+				"ab",
+				"abs(double a) : double"
+			],
+			[
+				"ma",
+				"Math"
+			],
+			[
+				"Arrays",
+				"Arrays"
+			],
+			[
+				"char",
+				"charAt(int index) : char"
+			],
+			[
+				"Strinb",
+				"StringBuilder"
+			],
+			[
+				"Strin",
+				"StringBuilder()()"
+			],
+			[
+				"pres",
+				"pers"
+			],
+			[
+				"new",
+				"newN"
+			],
+			[
+				"priun",
+				"println(double x) : void"
+			],
+			[
+				"Mah",
+				"Math"
+			],
+			[
+				"Arra",
+				"Arrays"
+			],
+			[
+				"string",
+				"StringBuilder"
+			],
+			[
+				"del",
+				"deleteCharAt(int index) : StringBuilder"
+			],
+			[
+				"String",
+				"StringBuilder"
+			],
+			[
+				"ap",
+				"append(char c) : StringBuilder"
+			],
+			[
+				"stringbu",
+				"StringBuilder"
+			],
+			[
+				"strin",
+				"StringEx"
+			],
+			[
+				"stric",
+				"StrictMath"
+			],
+			[
+				"el",
+				"elif\telse if"
+			],
+			[
+				"inte",
+				"Integer"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/cpp20.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/cpp20.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"bu",
+				"Build: Cancel"
+			],
+			[
+				"lsp",
+				"LSP: Format File"
+			],
+			[
+				"lsp:forma",
+				"LSP: Format File"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"insal",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Remove Package"
+			],
+			[
+				"istall ",
+				"Package Control: Install Package"
+			],
+			[
+				"preferences",
+				"Preferences: LSP Settings"
+			],
+			[
+				"package control:",
+				"Package Control: List Packages"
+			],
+			[
+				"INSTALL",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/tomconran/Documents/Code/orderbook"
+	],
+	"file_history":
+	[
+		"/Users/tomconran/Documents/Code/orderbook/tests/test_book.cpp",
+		"/Users/tomconran/Documents/Code/queens-solver/README.md",
+		"/Users/tomconran/Documents/Code/queens-solver/queens.sublime-project",
+		"/Users/tomconran/Documents/CS118/Coursework2/GrandFinale.java",
+		"/Users/tomconran/Documents/Code/Cpp/test.cpp",
+		"/Users/tomconran/Documents/Code/Python/mergeSort.py",
+		"/Users/tomconran/Documents/Code/Python/Plotting/test1.py",
+		"/Users/tomconran/Documents/Code/Python/Plotting/cobweb.py",
+		"/Users/tomconran/Documents/Code/Python/Plotting/plot.py",
+		"/Users/tomconran/Library/Application Support/Sublime Text/Packages/User/Preferences.sublime-settings",
+		"/Users/tomconran/Library/Application Support/Sublime Text/Packages/Default/Preferences.sublime-settings",
+		"/Library/Frameworks/Python.framework/Versions/3.15/lib/python3.15/site-packages/numpy/__init__.pyi",
+		"/Users/tomconran/Documents/Code/Python/test.py",
+		"/Users/tomconran/Library/Application Support/Sublime Text/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/tomconran/Documents/CS118/Coursework2/GrandFinale_v1.java",
+		"/Users/tomconran/Documents/CS118/Coursework2/Ex3.java",
+		"/Users/tomconran/Documents/CS118/Coursework2/Ex2.java",
+		"/Users/tomconran/Documents/CS118/Coursework2/Ex1.java",
+		"/Users/tomconran/Documents/CS118/Coursework2/Ex1_v1.java",
+		"/Users/tomconran/Documents/Code/QueensSolver.java",
+		"/Users/tomconran/Documents/CS118/Coursework1/Ex3.java",
+		"/Users/tomconran/Documents/CS118/Coursework1/Ex2.java",
+		"/Users/tomconran/Documents/CS118/Coursework1/Ex1.java",
+		"/Users/tomconran/Documents/CS118/Coursework1/Ex2_v1.java",
+		"/Users/tomconran/Library/Mobile Documents/com~apple~CloudDocs/Discrete maths/CS118 Programming for computer scientists/DumboController.java",
+		"/Users/tomconran/Documents/CS118/Coursework2/Ex3",
+		"/Users/tomconran/Documents/CS118/Coursework2/Explorer.java",
+		"/Users/tomconran/Documents/CS118/Ex3.java",
+		"/Users/tomconran/Documents/CS118/Ex2.java",
+		"/Users/tomconran/Documents/CS118/Ex1.java",
+		"/Users/tomconran/Documents/CS118Examples/Lecture 3",
+		"/Users/tomconran/Documents/CS118/Broken.java",
+		"/Users/tomconran/Documents/CS118/Ex2_681.java",
+		"/Users/tomconran/Documents/CS118/Ex2_682.java",
+		"/Users/tomconran/Documents/CS118/DumboController.java",
+		"/Users/tomconran/Documents/CS118 Programming for computer scientists/MultiPers.java",
+		"/Users/tomconran/Documents/CS118 Programming for computer scientists/Century.java",
+		"/Users/tomconran/Documents/CS118 Programming for computer scientists/Cases.java",
+		"/Users/tomconran/Documents/CS118 Programming for computer scientists/NumberWar.java",
+		"/Users/tomconran/Documents/CS118 Programming for computer scientists/CardGame.java",
+		"/Users/tomconran/Documents/CS118 Programming for computer scientists/NameShuffle.java",
+		"/Users/tomconran/Documents/CS118 Programming for computer scientists/Spin.java",
+		"/Users/tomconran/Documents/CS118 Programming for computer scientists/GameScore.java",
+		"/Users/tomconran/Documents/CS118 Programming for computer scientists/DigitBattle.java",
+		"/Users/tomconran/Documents/CS118 Programming for computer scientists/CornerShop.java",
+		"/Users/tomconran/Documents/CS118 Programming for computer scientists/OddEven.java",
+		"/Users/tomconran/Documents/CS118 Programming for computer scientists/PrimeBomb.java",
+		"/Users/tomconran/Documents/CS118 Programming for computer scientists/ArrayMulti.java",
+		"/Users/tomconran/Documents/CS118 Programming for computer scientists/StringEx.java",
+		"/Users/tomconran/Documents/CS118 Programming for computer scientists/LoopEx.java",
+		"/Users/tomconran/Documents/CS118 Programming for computer scientists/ChoicesEx.java",
+		"/Users/tomconran/Downloads/OddEven.java",
+		"/Users/tomconran/Documents/CS118 Programming for computer scientists/PerfectNumbers.java",
+		"/Users/tomconran/Documents/CS118 Programming for computer scientists/CastingEx.java",
+		"/Users/tomconran/Documents/CS118 Programming for computer scientists/CastingExTest.java",
+		"/Users/tomconran/Documents/CS118 Programming for computer scientists/check.java",
+		"/Users/tomconran/Documents/CS118 Programming for computer scientists/Age.java",
+		"/Users/tomconran/Documents/CS118 Programming for computer scientists/ScannerTest.java",
+		"/Users/tomconran/Documents/CS118 Programming for computer scientists/Exercise1.java"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.LSP Log Panel":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"output.diagnostics":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"output.exec":
+	{
+		"height": 136.0,
+		"history":
+		[
+		]
+	},
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"pinned_build_system": "Packages/User/cpp20.sublime-build",
+	"project": "orderbook.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"lsp_show_inlay_hints": false
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

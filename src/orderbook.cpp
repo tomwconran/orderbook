@@ -1,6 +1,7 @@
+#include <orderbook/book.hpp>
+
 #include <algorithm>
 #include <optional>
-#include <orderbook/book.hpp>
 #include <stdexcept>
 #include <vector>
 
