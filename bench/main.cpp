@@ -60,12 +60,16 @@ int main() {
     std::int64_t id{static_cast<std::int64_t>(i)};
     orderbook::Side side{sideDist(rng) ? buy : sell};
     orderbook::Price price{
-        std::max(static_cast<int>(std::llround(priceDist(rng))), 1)};
+        std::max(static_cast<int>(std::llround(priceDist(rng))), 1) +
+        (side == buy ? 0 : 20)};
     orderbook::Quantity quantity{quantityDist(rng)};
-    std::int64_t targetId{(type == cancel && !limitOrders.empty())
-                              ? limitOrders[static_cast<size_t>(
-                                    cancelDist(rng) * limitOrders.size())]
-                              : -1};
+    std::int64_t targetId{
+        (type == cancel && !limitOrders.empty())
+            ? limitOrders[std::clamp(
+                  static_cast<std::size_t>(limitOrders.size() -
+                                           cancelDist(rng) * 1000),
+                  static_cast<std::size_t>(0), limitOrders.size() - 1)]
+            : -1};
 
     if (type == limit)
       limitOrders.push_back(i);
